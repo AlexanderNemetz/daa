@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 theme: jekyll-theme-minimal
 title:  Alexander Nemetz - DAA 2022
 description: My first GitHup page try
 show_downloads: false
+=======
+theme: jekyll-theme-minimal
+>>>>>>> af3ce2f9f70e4ea1dbd93751f54d2072d568d78b
